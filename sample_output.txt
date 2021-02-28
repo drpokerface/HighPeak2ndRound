@@ -1,0 +1,3 @@
+The goodies selected for distribution are: 
+('Apple Band', 999)('Cult Pass', 2799)('Fitbit Plus', 7980)('IPods', 22349)
+And the difference between the chosen goodie with highest price and the lowest price is 21350
